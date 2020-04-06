@@ -420,7 +420,7 @@ include_graphics("img/multiple-conversations.jpg")
 
 ### Need for increased digital literacy
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "560px", echo = FALSE, fig.align = "center"}
 include_graphics("img/kludge-houses.jpg")
 ```
 
