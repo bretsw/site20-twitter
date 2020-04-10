@@ -446,7 +446,7 @@ include_graphics("img/intersection.jpg")
 
 --
 
-* Here, we've looked at the **hashtag-thread mashup**, comparing hashtag replies to upstream replies
+* Important to pay attention to Twitter's features in addition to its content:
 
 --
 
@@ -459,28 +459,6 @@ include_graphics("img/intersection.jpg")
 --
 
   * Dropping a hashtag in a thread of replies ~ walking out of the room where a conversation may still be happening
-  
----
-
-# Conclusion
-
-### Technology complicates the social dimension of learning
-
-```{r, out.width = "320px", echo = FALSE, fig.align = "center"}
-include_graphics("img/intersection.jpg")
-```
-
-* Important to pay attention to Twitter's features in addition to its content
-
----
-
-class: inverse, center, top
-
-# Hashtag-Thread Mashup
-
-```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
-include_graphics("img/threads2.jpg")
-```
 
 ---
 
